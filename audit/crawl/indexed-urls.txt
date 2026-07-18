@@ -1,0 +1,41 @@
+# All lindkon.com URLs discovered via search-engine index, 2026-07-18
+# (Live crawl blocked by session network egress policy — see README.md)
+
+# Current site (WordPress)
+https://lindkon.com/
+https://lindkon.com/skilte/
+https://lindkon.com/bannere/
+https://lindkon.com/stativer/
+https://lindkon.com/gadesaelgere/
+https://lindkon.com/folie/
+https://lindkon.com/flag/
+https://lindkon.com/projektskiltning/
+https://lindkon.com/outsourcing/
+https://lindkon.com/sport/
+https://lindkon.com/going-green/
+https://lindkon.com/om-lindkon/
+https://lindkon.com/kontakt/
+
+# WooCommerce catalogue
+https://lindkon.com/vare-kategori/staalstativer/
+https://lindkon.com/vare/st04834/
+https://lindkon.com/vare/st04834-x2/
+https://lindkon.com/vare/st04060/
+https://lindkon.com/vare/st05070/
+https://lindkon.com/vare/st06030/
+https://lindkon.com/vare/st06030-x2/
+https://lindkon.com/vare/st06040d/
+https://lindkon.com/vare/st07050d/
+https://lindkon.com/vare/st10060d/
+https://lindkon.com/vare/st08834/
+https://lindkon.com/vare/li500-1/
+
+# Documents
+https://lindkon.com/wp-content/uploads/2024/07/ESG-Rapport-2023.pdf
+http://www.lindkon.com/CustomerData/Files/Folders/12-produktkatalog/129_2018-08-produktkatalog.pdf
+
+# Legacy ASP.NET URLs still indexed
+http://www.lindkon.com/digital-print/erhvervsmaeglere.aspx
+https://www.lindkon.com/produkter/stativer.aspx
+https://www.lindkon.com/produkter/bannerstativer.aspx
+https://www.lindkon.com/produkter/klistermaerke---folie.aspx
